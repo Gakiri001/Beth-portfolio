@@ -6,9 +6,9 @@
 }
 body{
   background: lightblue;
-  display: flex;
+  /*display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;*/
   margin-top: 0vh; /*rem:Return me to 50vh*/
 
 }
