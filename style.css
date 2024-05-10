@@ -459,7 +459,7 @@ nav .designedby p{
 
   /*gallery*/
   .full-cointainer .gallery{
-    overflow: hidden;
+    /*overflow: hidden;*/
   }
   .full-cointainer .gallery .gallery-left{
     padding-left: 0;
